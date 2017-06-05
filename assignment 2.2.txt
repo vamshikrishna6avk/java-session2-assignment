@@ -1,0 +1,12 @@
+Difference between Compiler and Interpreter
+
+
+Compiler :
+	Compiler is a software which checks the source code and list all the errors .
+	Compiler doesn't allow to run a program until the errors are completely removed.
+	It converts source code into machine code .
+	Compile the  program once and it  can be run anytime .
+Interpreter:
+	Interpreter works line by line ,it takes one statement at a time as an input.
+	Programs are interpreted by line every time they are run.
+	Error is reported as soon as the first error occured ,the rest of the program will not be checked until the error is completly removed
